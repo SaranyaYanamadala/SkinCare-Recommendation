@@ -4,4 +4,4 @@ Based on your skin type and skin concern this recommendation system will left yo
 use to improve your skin health.
 
 This project is implemented using python(tkinter), where we created the whole data manually from different sources and studies.
-Also we suggest some pro-tips for better skin health.
+Integrated with BART model from Hugging Face by finetuned the model with our custom data.
