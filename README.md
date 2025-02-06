@@ -1,7 +1,5 @@
 # SkinCare-Recommendation
-This skincare recommendation project aims at suggesting some best ingredients to solve your skin problem.
-Based on your skin type and skin concern this recommendation system will left you with the ingredients you should 
-use to improve your skin health.
-
-This project is implemented using python(tkinter), where we created the whole data manually from different sources and studies.
-Also focused on suggesting some pro-tips for skin types.
+This skincare recommendation system project aims at suggesting some best ingredients to solve your skin problem.
+Based on your skin concern this recommendation system will leave you with the ingredients you can 
+use to improve your skin health. A list of ingredients along with what they are and who is it for 
+are also given for the understanding of users. Developed using python GUI library, tkinter.
